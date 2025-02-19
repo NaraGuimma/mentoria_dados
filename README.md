@@ -1,4 +1,4 @@
-# 🚀 Python para Iniciantes - Construindo Projetos do Zero
+# 🚀 Construindo Projetos de Dados do Zero
 
 Bem-vindo(a) ao repositório **Mentoria em Dados**! 🎉 Este espaço foi criado para ajudar mentorados a iniciarem seus primeiros projetos na área de dafos e desenvolverem um portfólio real, aplicável em situações do dia a dia.
 
